@@ -1,0 +1,2 @@
+c:\users\dualtagh\documents\visual studio 2010\Projects\SpectrumRecovered\SpectrumRecovered\SpectrumRecoveredContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dualtagh\Dropbox\Public\SpectrumRecovered\SpectrumRecovered\SpectrumRecoveredContent\obj\x86\Debug\ResolveAssemblyReference.cache
